@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="./picture/1.PNG" width="40%" alt="Abacus" />
+  <img src="./picture/1.jpg" width="40%" alt="Abacus" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
