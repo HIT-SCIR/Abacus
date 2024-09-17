@@ -16,7 +16,7 @@
   <a href="" target="_blank" style="margin: 2px;">
     <img alt="Wechat" src="https://img.shields.io/badge/Abacus-Wechat-%23368B13?logo=wechat&logoColor=%23368B13" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="" style="margin: 2px;">
+  <a href="https://github.com/HIT-SCIR/Abacus/LICENSE" style="margin: 2px;">
   <img alt="Code License" src="https://img.shields.io/badge/License-Apache_2.0-green.svg" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
@@ -367,7 +367,7 @@ Ollama创建模型
 插件将于测试完毕后在VSCode应用市场发布。
 
 ## 8.开源协议
-对本仓库源码的使用遵循开源许可协议 [Apache 2.0](https://github.com/HIT-SCIR/huozi/blob/main/LICENSE)。
+对本仓库源码的使用遵循开源许可协议 [Apache 2.0](https://github.com/HIT-SCIR/Abacus/LICENSE)。
 
 珠算支持商用。如果将珠算模型或其衍生品用作商业用途，请您按照如下方式联系许可方，以进行登记并向许可方申请书面授权：联系邮箱：<jngao@ir.hit.edu.cn>。
 
