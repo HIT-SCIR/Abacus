@@ -150,7 +150,7 @@ ollama serve
 ```
 运行珠算大模型：
 ```bash
-ollama run HIT-SCIR/Abacus
+ollama run HIT-SCIR/abacus
 ```
 #### Transformers 模型推理 + 流式生成
 
