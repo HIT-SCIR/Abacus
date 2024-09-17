@@ -7,9 +7,9 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="" target="_blank" style="margin: 2px;">
+  <!-- <a href="" target="_blank" style="margin: 2px;">
     <img alt="Homepage" src="https://img.shields.io/badge/Abacus-Homepage-blue?style=flat-square&logo=homeadvisor" style="display: inline-block; vertical-align: middle;"/>
-  </a>
+  </a> -->
 <!--   <a href="" target="_blank" style="margin: 2px;">
     <img alt="Blog" src="https://img.shields.io/badge/Abacus-blog-red?style=flat-square&logo=blogger" style="display: inline-block; vertical-align: middle;"/>
   </a> -->
@@ -49,7 +49,7 @@
 |模型名称|文件大小|下载地址|备注|
 |:---:|:---:|:---:|:---:|
 |Abacus|5GB|[🤗HuggingFace](https://huggingface.co/HIT-SCIR/Abacus)<br>[ModelScope](https://www.modelscope.cn/models/HIT-SCIR/Abacus)|Abacus完整模型|
-|Abacus-gguf|1.7GB(Q4_K_M)<br>2.7GB(Q8_0)|[🤗HuggingFace](https://huggingface.co/HIT-SCIR/Abacus)<br>[ModelScope](https://www.modelscope.cn/models/HIT-SCIR/Abacus-gguf)|珠算GGUF版本，适用于llama.cpp、Ollama等推理框架|
+|Abacus-gguf|1.7GB(Q4_K_M)<br>2.7GB(Q8_0)|[🤗HuggingFace](https://huggingface.co/HIT-SCIR/Abacus-gguf)<br>[ModelScope](https://www.modelscope.cn/models/HIT-SCIR/Abacus-gguf)|珠算GGUF版本，适用于llama.cpp、Ollama等推理框架|
 
 </div>
 
